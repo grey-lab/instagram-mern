@@ -1,5 +1,5 @@
 # Instagram MERN
-Full-Stack Instgram Clone using MERN Stack and Socket.io
+Full-Stack Instagram Clone using MERN Stack and Socket.io
 
 [Visit Now](https://instagramernstack.herokuapp.com/) 🚀
 
@@ -36,7 +36,7 @@ Full-Stack Instgram Clone using MERN Stack and Socket.io
 
 ## 🚀 Features
 - Login/Signup User Account
-- Login using Email/Username
+- Login Using Email/Username
 - Update Profile/Password User Account
 - Reset Password Mail using Sendgrid
 - Infinite Scroll Posts
